@@ -2,6 +2,7 @@
 # 🎙️ Music Band Simulator 🎶
 
 A voice-controlled music creation app built with Python and Pygame — record instrument loops, generate songs, and control everything using **just your voice**.
+download link -> https://drive.google.com/file/d/1dextX63qjBfSrsDD-KpluB99EZ9ZcOhp/view?usp=drive_link
 
 ![Screenshot 1](screenshots/s%20(1).png)
 ![Screenshot 2](screenshots/s%20(2).png)
